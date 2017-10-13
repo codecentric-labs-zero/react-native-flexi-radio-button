@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/thegamenicorus/react-native-flexi-radio-button/issues"
   },
-  "homepage": "https://github.com/thegamenicorus/react-native-flexi-radio-button"
+  "homepage": "https://github.com/thegamenicorus/react-native-flexi-radio-button",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
